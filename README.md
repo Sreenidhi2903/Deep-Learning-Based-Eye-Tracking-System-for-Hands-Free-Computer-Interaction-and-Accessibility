@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Eye-Tracking-System-for-Hands-Free-Computer-Interaction-and-Accessibility
+The eye-tracking system that allows individuals with spinal cord injuries, limb impairments, or other mobility challenges to control a computer mouse cursor using only their eyes. By deep learning, methods Convolutional Neural Networks (CNN) with the ResNet-34 architecture, the system interprets eye movements and blinks., 
